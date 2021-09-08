@@ -9,7 +9,6 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
  <li>JS</li>
  <li>HTML</li>
  <li>CSS</li>
- <li>HTML</li>
 
 ## My Projects 💻
 
