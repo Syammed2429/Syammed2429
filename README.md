@@ -12,7 +12,7 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
 ## My Projects 💻
 
 <li><a href="https://movies-searchengine.netlify.app/" title="A simple movies search engine web app">Movie Search Engine</a>  A simple movies search engine web app</li>
-<li><a href="https://anne-translator.netlify.app/" title="A Translator web app">Movie Search Engine</a>  A Translator Web App which has 17 langugaes</li>
+<li><a href="https://anne-translator.netlify.app/" title="A Translator web app">Translator</a>  A Translator Web App which has 17 langugaes</li>
 <li><a href="https://starwars-characters-info.netlify.app/" title="Star Wars">Star Wars Characters Info</a>  A web app to know the information about star wars charcters</li>
 
 
