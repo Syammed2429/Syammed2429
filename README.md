@@ -27,6 +27,8 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerrybli&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919&border_radius=20px">
 </p>
+<br>
 
+![Profile views](https://gpvc.arturio.dev/kerrybli)
 
 
