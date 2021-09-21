@@ -46,6 +46,11 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
 <!-- ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET) -->
 <br>
 
+<h3>Other Stats</h3>
+
 ![Profile views](https://gpvc.arturio.dev/kerrybli)
+
+<!-- ![](https://komarev.com/ghpvc/?username=kerrybli&style=flat-square) -->
+
 
 
