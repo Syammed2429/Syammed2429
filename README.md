@@ -12,6 +12,7 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
  <li>Bootstrap</li>
  <li>Express</li>
  <li>MongoDB</li>
+ <li>EJS</li>
 
 ## My Projects 💻
 
