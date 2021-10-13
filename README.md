@@ -13,6 +13,7 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
  <li>Express</li>
  <li>MongoDB</li>
  <li>EJS</li>
+ <li>Redis</li>
 
 ## My Projects 💻
 
@@ -40,6 +41,7 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongoDB)
 ![express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 
 
 <!-- ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash) -->
