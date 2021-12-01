@@ -70,10 +70,10 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
 <h3 align="center">Reach Out To Me On 👇:</h3>
   
   <p align="center">
-    <a href="mailto:kerry.blig12@gmail.com" traget="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href="mailto:kerry.blig12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://www.linkedin.com/in/dada-khalandar/" traget-"_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://twitter.com/Kerry14066781" traget="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
- <a href="https://instagram.com/bestpicturesinweb" traget="_blank"><img src="https://img.shields.io/badge/-Instagram-ad3383?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://twitter.com/Kerry14066781" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+ <a href="https://instagram.com/bestpicturesinweb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ad3383?style=for-the-badge&logo=instagram&logoColor=white"></a>
   
 </p>
 
