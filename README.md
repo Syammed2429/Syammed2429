@@ -7,10 +7,24 @@
 </p> -->
 
 I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simples and beautiful websites and web applications. I really enjoy learning languages and frameworks. I also enjoy learning new design patterns to improve my design skills. I love to do add more and more functionalities to the websites.
+## 👨🏻‍💻 About Me:
 
-I am open to collaborate on any project that is impactful and makes the world a better place.
+<!-- <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" /> -->
 
-Want to know more about my projects and me? Check out my <a href="https://dada-khalandar-portfolio.vercel.app" target="_blank" title="My Portfolio">portfolio</a> 
+- 🙋‍♂️ All about me is at **[My Website](https://dada-khalandar-portfolio.vercel.app)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m Full Stack Web Developer `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- I am open to collaborate on any project that is impactful and makes the world a better place.
+
+<!-- Want to know more about my projects and me? Check out my <a href="https://dada-khalandar-portfolio.vercel.app" target="_blank" title="My Portfolio">portfolio</a>  -->
 
 ## My Skills ✨
 
