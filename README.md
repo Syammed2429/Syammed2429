@@ -8,6 +8,8 @@
 
 I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simples and beautiful websites and web applications. I really enjoy learning languages and frameworks. I also enjoy learning new design patterns to improve my design skills. I love to do add more and more functionalities to the websites.
 
+Want to know more? Check out my <a href="a-khalandar-portfolio.vercel.app/" target="_blank" title="My Portfolio">portfolio</a> 
+
 ## My Skills ✨
 
 <h3 align="center">My Tools & Tech Stack 🛠️:</h3>
@@ -38,17 +40,14 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
 
 
 
-## My Projects 💻
+<!-- ## My Projects 💻
 
 <li><a href="https://movies-searchengine.netlify.app/" title="A simple movies search engine web app">Movie Search Engine</a>  A simple movies search engine web app</li>
 <li><a href="https://anne-translator.netlify.app/" title="A Translator web app">Translator</a>  A Translator Web App which has 17 langugaes</li>
 <li><a href="https://starwars-characters-info.netlify.app/" title="Star Wars">Star Wars Characters Info</a>  A web app to know the information about star wars charcters</li>
+ -->
 
 
-## If you like my work...
-<li>Give me a tip if you are a Brave browser user!! 🦁</li>
-<li>Contribute to my projects!!</li>
-<hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kerrybli&show_icons=true&theme=radical&border_radius=20px">
 </p>
@@ -86,6 +85,12 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
 
 ![Profile views](https://gpvc.arturio.dev/kerrybli)
 
+
+
+## If you like my work...
+<li>Give me a tip if you are a Brave browser user!! 🦁</li>
+<li>Contribute to my projects!!</li>
+<hr>
 <!-- ![](https://komarev.com/ghpvc/?username=kerrybli&style=flat-square) -->
 
 
