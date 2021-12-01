@@ -8,7 +8,7 @@
 
 I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simples and beautiful websites and web applications. I really enjoy learning languages and frameworks. I also enjoy learning new design patterns to improve my design skills. I love to do add more and more functionalities to the websites.
 
-Want to know more? Check out my <a href="a-khalandar-portfolio.vercel.app/" target="_blank" title="My Portfolio">portfolio</a> 
+Want to know more? Check out my <a href="dada-khalandar-portfolio.vercel.app" target="_blank" title="My Portfolio">portfolio</a> 
 
 ## My Skills ✨
 
