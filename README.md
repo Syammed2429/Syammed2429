@@ -69,9 +69,13 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerrybli&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919&border_radius=20px">
+
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=syammed2924&layout=compact">
+  </p>
 <br>
-<p style="font-size: 20px;  font-weight: 500;">Programming languages</p>
+<!-- <p style="font-size: 20px;  font-weight: 500;">Programming languages</p> -->
 <!-- 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
@@ -80,6 +84,10 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongoDB)
 ![express](https://img.shields.io/badge/-Express-000?&logo=express)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis) -->
+
+
+
+
 
 
 <h3 align="center">Reach Out To Me On 👇:</h3>
