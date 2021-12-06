@@ -19,7 +19,7 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me about anything, about MERN 
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - I am open to collaborate on any project that is impactful and makes the world a better place.
