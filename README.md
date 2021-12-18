@@ -109,6 +109,8 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simp
 
 ![Profile views](https://gpvc.arturio.dev/kerrybli)
 
+![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/2995?logoColor=dark%26project=%26recentMS=0%26showProject=true)
+
 
 
 ## If you like my work...
