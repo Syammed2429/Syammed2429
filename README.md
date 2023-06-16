@@ -6,7 +6,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></a>
 </p> -->
 
-I am Dada Khalandar, Aspiring Full Stack Web Developer from India. I create simples and beautiful websites and web applications. I really enjoy learning languages and frameworks. I also enjoy learning new design patterns to improve my design skills. I love to do add more and more functionalities to the websites.
+I am Dada Khalandar, Aspiring Full Stack Web Developer. I create simples and beautiful websites and web applications. I really enjoy learning languages and frameworks. I also enjoy learning new design patterns to improve my design skills. I love to do add more and more functionalities to the websites.
 ## 👨🏻‍💻 About Me:
 
 <!-- <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" /> -->
