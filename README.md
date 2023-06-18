@@ -51,6 +51,8 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer. I create simples and bea
  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/-React%20Native-282c34?style=flat&logo=react&logoColor=00c8ff">
+  <img src='https://img.shields.io/badge/-Angular-F2F2F2?style=flat&logo=angular&logoColor=C3002F'>
+  <img src='https://img.shields.io/badge/-Jasmine-000000?style=flat&logo=jasmine&logoColor=669636'>
   
 </p>
 
