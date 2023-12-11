@@ -71,7 +71,7 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer. I create simples and bea
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerrybli&show_icons=true&theme=radical&border_radius=20px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Syammed2429&show_icons=true&theme=radical&border_radius=20px">
 </p>
 <!--
 <p align="center">
