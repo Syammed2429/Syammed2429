@@ -82,6 +82,8 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer. I create simples and bea
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=syammed2924&layout=compact">
   </p>
 <br>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Syammed2429&theme=tokyonight-duo)](https://git.io/streak-stats)
 <!-- <p style="font-size: 20px;  font-weight: 500;">Programming languages</p> -->
 <!-- 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
