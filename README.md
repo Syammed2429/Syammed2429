@@ -82,6 +82,12 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer. I create simples and bea
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=syammed2924&layout=compact">
   </p>
 <br>
+
+
+<p align="center">
+  <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D2995%26project%3D%26in%3D0">
+  </p>
+<br>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Syammed2429&theme=tokyonight-duo)](https://git.io/streak-stats)
 <!-- <p style="font-size: 20px;  font-weight: 500;">Programming languages</p> -->
