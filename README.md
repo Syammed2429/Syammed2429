@@ -11,15 +11,15 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer. I create simples and bea
 
 <!-- <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" /> -->
 
-- 🙋‍♂️ All about me is at **[My Website](https://dada-khalandar-portfolio.vercel.app)**
+- 🙋‍♂️ All about me is at **[My Website](https://dada-khalandar-v2.vercel.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m Full Stack Web Developer `MERN Stack`
+- 🌱 I’m Front End Web Developer `React, Next.JS, Angular`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 💬 Ask me about anything, about MERN 
+- 💬 Ask me about anything, about FrontEnd 
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - I am open to collaborate on any project that is impactful and makes the world a better place.
