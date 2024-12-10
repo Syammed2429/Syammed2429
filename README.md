@@ -69,11 +69,11 @@ I am Dada Khalandar, Aspiring Full Stack Web Developer. I create simples and bea
 <li><a href="https://starwars-characters-info.netlify.app/" title="Star Wars">Star Wars Characters Info</a>  A web app to know the information about star wars charcters</li>
  -->
 
+<!--
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Syammed2429&show_icons=true&theme=radical&border_radius=20px">
 </p>
-<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerrybli&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919&border_radius=20px">
 -->
