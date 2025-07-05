@@ -1,0 +1,41 @@
+---
+name: Daily Commit Bot
+
+"on":
+  schedule:
+    # Run every day at 12:00 UTC (adjust as needed)
+    - cron: '0 12 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Update activity file
+        run: |
+          # Create or update the activity tracking file
+          echo "Last updated: $(date)" > .github/last-activity.txt
+          # Update commit count
+          file=".github/commit-count.txt"
+          current=$(cat "$file" 2>/dev/null | grep -o '[0-9]*' || echo 0)
+          count=$((current + 1))
+          echo "Commit count: $count" > "$file"
+
+      - name: Commit changes
+        run: |
+          git add .github/last-activity.txt .github/commit-count.txt
+          commit_msg="🤖 Daily activity update - $(date +'%Y-%m-%d')"
+          git commit -m "$commit_msg" || exit 0
+
+      - name: Push changes
+        run: |
+          git push
